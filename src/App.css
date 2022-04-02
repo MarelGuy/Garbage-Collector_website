@@ -13,6 +13,7 @@ h2 {
 
 .bg_img{
   padding-top: 10vh;
+  padding-bottom: 3vh;
 }
 
 .center_div {
@@ -21,18 +22,11 @@ h2 {
 }
 
 .armor {
-  padding-top: 5.225vh !important;
+  padding-top: 10.45vh !important;
 }
 
 .scarpe {
-  padding-top: 5.6vh !important;
-}
-
-#scroll_button {
-  background-color: #5c843b !important;
-  border-color: #425e2b;
-  border-width: 3px;
-  border-radius: 10px;
+  padding-top: 11.2vh !important;
 }
 
 .card_body {
@@ -41,5 +35,12 @@ h2 {
 }
 
 .map{
-    padding-top: 3vh !important;
+  padding-top: 3vh !important;
+}
+
+#scroll_button {
+  background-color: #5c843b !important;
+  border-color: #425e2b;
+  border-width: 3px;
+  border-radius: 10px;
 }
