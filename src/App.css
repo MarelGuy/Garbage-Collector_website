@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+body {
+  background-image: url("../Assets/patternHtml.png") !important;
+  font-family: 'Orbitron', sans-serif !important;
+  color: #fff !important;
+  font-size: 1.5rem !important;
+}
+
+h2 {
+  font-size: 2.5rem !important;
+}
+
+.bg_img{
+  padding-top: 10vh;
+}
+
+.center_div {
+  display: block !important;
+  margin: 0 auto !important;
+}
+
+.armor {
+  padding-top: 5.225vh !important;
+}
+
+.scarpe {
+  padding-top: 5.6vh !important;
+}
+
+#scroll_button {
+  background-color: #5c843b !important;
+  border-color: #425e2b;
+  border-width: 3px;
+  border-radius: 10px;
+}
+
+.card_body {
+  background-color: #292e1a !important;
+  height: 55vh;
+}
+
+.map{
+    padding-top: 3vh !important;
+}
