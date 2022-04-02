@@ -44,7 +44,7 @@ render(
 
         <Row>
           <Col className="center_div">
-            <p>il Garbage-Collector è un Sintetico Addetto alla pulizia creato dalla razza umana come ultima speranza
+            <p>Il Garbage-Collector è un Sintetico Addetto alla pulizia creato dalla razza umana come ultima speranza
               contro la sempre più grande minaccia dell'inquinamento, grazie alla sua spara-buste biodegradabili.</p>
           </Col>
           <Col>
