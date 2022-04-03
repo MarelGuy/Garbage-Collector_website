@@ -52,7 +52,7 @@ render(
           </Col>
         </Row>
       </section>
-      <section>
+      {/* <section>
         <h2 style={{ "marginTop": "10vh" }}>Gli oggetti</h2>
 
         <div className="center_div">
@@ -95,7 +95,7 @@ render(
             </Col>
           </Row>
         </div>
-      </section>
+      </section> */}
       <section>
         <h2 style={{ "marginTop": "10vh" }}>Work in progress</h2>
 
