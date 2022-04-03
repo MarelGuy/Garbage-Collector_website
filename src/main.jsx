@@ -18,7 +18,7 @@ render(
 
         <p>
           Il mondo è in rovina, per anni, decenni la terra è stata maltrattata venendo inquinata
-          e diventando una grande discarica a cielo aperto.
+          e diventando una grande discarica a cielo aperto<a href="https://www.youtube.com/watch?v=OSFJL7nWykU" target="_blank" rel="noopener noreferrer">.</a>
           <br />
           L’unico eroe che può rimediare
           al problema è il sintetico
@@ -45,7 +45,7 @@ render(
         <Row>
           <Col className="center_div">
             <p>Il Garbage-Collector è un Sintetico Addetto alla pulizia creato dalla razza umana come ultima speranza
-              contro la sempre più grande minaccia dell'inquinamento, grazie alla sua spara-buste biodegradabili.</p>
+              contro la sempre più grande minaccia dell'inquinamento<a href="">,</a> grazie alla sua spara-buste biodegradabili.</p>
           </Col>
           <Col>
             <Image className="center_div" fluid={true} src="../Assets/garbage collector.png" />
@@ -122,6 +122,6 @@ render(
         </footer>
       </section>
     </Container>
-  </React.StrictMode>,
+  </React.StrictMode >,
   document.getElementById('root')
 )
